@@ -1,4 +1,4 @@
-# Expanding Card
-Day x in 50projects50days
+# Progress Steps
+Day 2 in 50projects50days
 ### Demo image 
-![demo]()
+![demo](ProgressSteps.gif)
