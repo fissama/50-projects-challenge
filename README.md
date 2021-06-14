@@ -1,4 +1,4 @@
-# Expanding Card
-Day x in 50projects50days
+# Rotating Navigation
+Day 3 in 50projects50days
 ### Demo image 
-![demo]()
+![rotating-demo](rotating-demo.gif)
